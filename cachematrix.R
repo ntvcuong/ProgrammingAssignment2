@@ -1,3 +1,4 @@
+##The functions below create a matrix object, cache its inverse, check if the inverse exists and compute a new one if needed.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
